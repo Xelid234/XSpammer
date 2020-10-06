@@ -1,0 +1,10 @@
+C:\Users\hamza\source\repos\XSpammer\bin\Release\XSpammer.exe.config
+C:\Users\hamza\source\repos\XSpammer\bin\Release\XSpammer.exe
+C:\Users\hamza\source\repos\XSpammer\bin\Release\XSpammer.pdb
+C:\Users\hamza\source\repos\XSpammer\obj\Release\XSpammer.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\XSpammer\obj\Release\XSpammer.XSpammer.resources
+C:\Users\hamza\source\repos\XSpammer\obj\Release\XSpammer.Properties.Resources.resources
+C:\Users\hamza\source\repos\XSpammer\obj\Release\XSpammer.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\XSpammer\obj\Release\XSpammer.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\XSpammer\obj\Release\XSpammer.exe
+C:\Users\hamza\source\repos\XSpammer\obj\Release\XSpammer.pdb
